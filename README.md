@@ -32,7 +32,7 @@ A simple snake game where you control a snake using the keyboard and try to eat 
    ```
 3. Install required dependencies:
    ```
-   pkg install python python-tkinter x11-repo tigervnc -y
+   pkg install python python-tkinter x11-repo tigervnc -y && pip install PythonTurtle
    ```
 4. Start VNC server:
    ```
